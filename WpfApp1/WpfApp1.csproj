@@ -64,6 +64,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Classes\Fighter.cs" />
+    <Compile Include="Classes\HeavyFighter.cs" />
     <Compile Include="Classes\LightFighter.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
